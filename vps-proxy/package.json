@@ -1,7 +1,7 @@
 {
   "name": "pixeldrain-vps-proxy",
-  "version": "1.0.0",
-  "description": "Pixeldrain proxy server for VPS",
+  "version": "2.0.0",
+  "description": "Simple IPv4 Pixeldrain proxy for multi-VPS load balancing",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -10,4 +10,3 @@
     "express": "^4.18.2"
   }
 }
-
